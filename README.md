@@ -3,10 +3,11 @@
 For this weeks homework creating a day planner.
 
 ## Guide
-1) Click start to begin
-2) You have 50 seconds to complete the quiz
-3) If you answer a question wrong 5 seconds is reduced from timer
-4) Bonus question at the end
+1) Add activities
+2) Click save icon to store in local storage
+3) Grey indicates time slots that have passed
+4) Red indicates current time slot
+5) Green indicates future time slots
 
 ## Links
 * https://aaron8907.github.io/Homework05/
