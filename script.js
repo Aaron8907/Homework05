@@ -113,10 +113,9 @@ function hourlySchedulePm(){
 }
 
 function hourlyBlock(){
-     var hour=12
-     var pmAM="pm"
-    //  var hour=moment().format('h');
-    //  var pmAM=moment().format('a');
+
+    var hour=moment().format('h');
+    var pmAM=moment().format('a');
 
   console.log(pmAM)
   for (var i = 8; i < 13; i++) {
